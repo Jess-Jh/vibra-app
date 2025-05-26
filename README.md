@@ -83,7 +83,8 @@ flutter run
 
 - **Detalle de canción:**  
   Información ampliada de la canción seleccionada.
-![simulator_screenshot_84AFF2BB-D474-4A74-ABD7-94B1B40CC38C](https://github.com/user-attachments/assets/33f0b9a6-a11e-4d5d-b87e-a622ab4f9036)
+![Simulator Screenshot - iPhone 13 Pro - 2025-05-26 at 01 31 18](https://github.com/user-attachments/assets/3780188f-93ba-42d5-b47a-1f26c67070d4)
+
 
 
 

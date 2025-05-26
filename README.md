@@ -3,7 +3,6 @@
 ## 📋 Tabla de Contenidos
 - ✨ Características
 - 🛠️ Tecnologías Utilizadas
-- 📁 Estructura del Proyecto
 - 🚀 Instalación y Ejecución
 - 📸 Pantallas
   - Lista de canciones favoritas
@@ -33,21 +32,6 @@
 
 ---
 
-## 📁 Estructura del Proyecto
-La app sigue una arquitectura limpia y buenas prácticas, usando patrones como Dependency Injection y manejo claro de estados.
-
-vibra_music_app/
-├── lib/
-│ ├── core/ # Helpers, utilidades, almacenamiento seguro, constantes.
-│ ├── features/
-│ │ ├── auth/ # Login, manejo de token, estado de autenticación
-│ │ ├── home/ # Listado y manejo de canciones favoritas
-│ │ ├── search/ # Modelos, servicios API, búsqueda
-│ │ └── detail/ # Detalle de búsqueda o selección del usuario
-│ ├── shared/ # elementos compartidos
-│ └── main.dart # Entrada de la app y configuración inicial
-└── test/ # Pruebas unitarias y de integración
-
 ## 🚀 Instalación y Ejecución
 
 ### Clonar el repositorio
@@ -76,14 +60,16 @@ flutter run
 - **Lista de canciones favoritas:**  
   Muestra las canciones favoritas del usuario y recomendaciones.
 
-![simulator_screenshot_24849E99-7377-47C5-9C41-4A62D021ED3D](https://github.com/user-attachments/assets/c29de9ff-9e2e-437b-944b-4a2db9fcb281)
+https://github.com/user-attachments/assets/7d788e2b-b13f-4be9-b8cb-722741f0e800
 
 - **Buscador de canción:**  
-![simulator_screenshot_DC042424-3F03-4408-BF3F-807951C7EB3B](https://github.com/user-attachments/assets/575f1526-dca3-46e7-aa31-88cd5d69b7cb)
+https://github.com/user-attachments/assets/07a060ec-e13c-4fbc-aafb-425b924b01de
 
 - **Detalle de canción:**  
   Información ampliada de la canción seleccionada.
-![Simulator Screenshot - iPhone 13 Pro - 2025-05-26 at 01 31 18](https://github.com/user-attachments/assets/3780188f-93ba-42d5-b47a-1f26c67070d4)
+https://github.com/user-attachments/assets/f4cf91eb-35d9-4e1e-b56a-9d409f79bebd
+
+https://github.com/user-attachments/assets/1e200890-a2cd-4434-b9ed-689181ec8aa4
 
 
 

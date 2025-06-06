@@ -62,15 +62,28 @@ flutter run
 ```
 
 
-## 📸 Pantallas
+## 📸 Capturas de pantalla
+
+- **Inicio de sesión:**  
+  <div style="display: flex; gap: 10px;">
+   <img src="screenshots/login.png" alt="Login Page" width="200"/>
+  </div>
 
 - **Lista de canciones favoritas:**  
-  Muestra las canciones favoritas del usuario y recomendaciones.
+  <div style="display: flex; gap: 10px;">
+   <img src="screenshots/home_page.png" alt="Home Page" width="200"/>
+  </div>
 
-- **Buscador de canción**  
+- **Buscador**
+   <div style="display: flex; gap: 10px;">
+   <img src="screenshots/search_page.png" alt="Search Page" width="200"/>
+   </div>
 
 - **Detalle de canción:**  
-  Información ampliada de la canción seleccionada.
+  <div style="display: flex; gap: 10px;">
+   <img src="screenshots/detail_page.png" alt="Detail Page" width="200"/>
+   <img src="screenshots/detail_2.png" alt="Detail Page" width="200"/>
+</div>
 
 
 
